@@ -1,0 +1,19 @@
+{
+  "name": "Reset.scss",
+  "version": "1.0.0",
+  "description": "Reset.scss creates a blank canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jamesblanksby@github.com/jamesblanksby/reset.git"
+  },
+  "author": "James Blanksby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesblanksby/reset/issues"
+  },
+  "homepage": "https://github.com/jamesblanksby/reset"
+}
