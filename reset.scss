@@ -168,6 +168,9 @@ select {
     font-size: inherit;
 
     color: inherit;
+    
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
 
 select {
@@ -176,9 +179,6 @@ select {
 
     border: 0;
     border-radius: 0;
-
-    -webkit-appearance: none;
-       -moz-appearance: none;
 }
 select::-ms-expand {
     display: none;
